@@ -13,6 +13,11 @@ groups:
     - essentials.pay
     - essentials.sell
     - essentials.sell.hand
+    - authme.register
+    - authme.login
+    - authme.logout
+    - authme.changepassword
+    - authme.unregister
   operator:
     options:
       default: false
