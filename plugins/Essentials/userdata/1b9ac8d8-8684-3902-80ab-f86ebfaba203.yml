@@ -1,0 +1,43 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1648087737784
+  login: 1648087383174
+  kits:
+    color: 0
+    dtools: 1648033560107
+    tools: 1648033555270
+    firework: 1648033570994
+money: '201.2'
+last-account-name: pikus12345
+logoutlocation:
+  world: 5ad87f5a-8800-49e5-8517-37b2f25db84a
+  world-name: world
+  x: -21.709990100278585
+  y: -59.99627993317507
+  z: -0.02417830869022837
+  yaw: -161.13406372070312
+  pitch: 27.8690128326416
+lastlocation:
+  world: 5ad87f5a-8800-49e5-8517-37b2f25db84a
+  world-name: world
+  x: 6.5
+  y: -61.0
+  z: -0.5
+  yaw: 0.0
+  pitch: 0.0

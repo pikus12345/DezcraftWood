@@ -1,0 +1,27 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - modifyworld.*
+    - crazyauctions.access
+    - crazyauctions.view
+    - crazyauctions.sell 
+    - crazyauctions.sell.#
+    - crazyauctions.sell.5
+    - essentials.balance
+    - essentials.pay
+    - essentials.sell
+    - essentials.sell.hand
+  operator:
+    options:
+      default: false
+    permissions:
+    - '*'
+schema-version: 1
+users:
+  1b9ac8d8-8684-3902-80ab-f86ebfaba203:
+    group:
+    - operator
+    options:
+      name: pikus12345

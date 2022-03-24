@@ -1,0 +1,26 @@
+Items:
+  '1':
+    Price: 25
+    Seller: pikus12345
+    Time-Till-Expire: 1648465878441
+    Full-Time: 1648897878441
+    StoreID: 666374
+    Biddable: false
+    TopBidder: None
+    Item:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2975
+      type: LEATHER_HELMET
+  '3':
+    Price: 25
+    Seller: pikus12345
+    Time-Till-Expire: 1648465883272
+    Full-Time: 1648897883272
+    StoreID: 835931
+    Biddable: false
+    TopBidder: None
+    Item:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2975
+      type: LEATHER_LEGGINGS
+OutOfTime/Cancelled: {}
